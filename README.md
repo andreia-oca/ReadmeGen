@@ -7,36 +7,37 @@
 **Description**
 
 ReadmeGen is a useful script that generates readme templates for homeworks and school projects.
-
+***
 **Options**
 
   -h, --help 
   
   -T, --title
   
-\t Set the title. Default is Homework 1.
+Set the title. Default is Homework 1.
       
   -t, --subtitle
   
-\t Set the subtitles. Default is Task$i.
+Set the subtitles. Default is Task$i.
       
   -n
   
   
-\t Set number of subtitles. Default is 5.
+Set number of subtitles. Default is 5.
 
   --height
   
-\t Default 5
+Default 5
       
   --width
   
-\t Default 70
+Default 70
       
   --character
-  
-\t Default "="
+
+Default "="
  
+ ***
 
 ======================================================================
 
