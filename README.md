@@ -2,7 +2,7 @@
 
 **Usage**
 
-python readme_templ_gen.py >> README.md
+    python readme_templ_gen.py >> README.md
 
 **Description**
 
@@ -14,27 +14,27 @@ ReadmeGen is a useful script that generates readme templates for homeworks and s
   
   -T, --title
   
-      Set the title. Default is Homework 1.
+    Set the title. Default is Homework 1.
       
   -t, --subtitle
   
-      Set the subtitles. Default is Task$i.
+    Set the subtitles. Default is Task$i.
       
   -n
   
   
-      Set number of subtitles. Default is 5.
+    Set number of subtitles. Default is 5.
   --height
   
-      Default 5
+    Default 5
       
   --width
   
-      Default 70
+    Default 70
       
   --character
   
-      Default "="
+    Default "="
  
 
 ======================================================================
